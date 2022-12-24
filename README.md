@@ -1,4 +1,4 @@
-# Remote-Assistance
+# Wallpaper
 Wallpaper is a library for creating wallpaper engine, which is integrated with qtquick、opengl、pipewire technology.
 
 ## Release Signatures
