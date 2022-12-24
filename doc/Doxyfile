@@ -1,0 +1,8 @@
+PROJECT_NAME           = "wallpaper"
+PROJECT_NUMBER         = 1.0.0
+OUTPUT_DIRECTORY       = ../doc/doxygen
+OUTPUT_LANGUAGE        = Chinese
+RECURSIVE              = YES
+IMAGE_PATH             = ../doc/doxygen/images
+DOT_PATH               = /usr/local/bin
+GENERATE TREEVIEW      = ALL

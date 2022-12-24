@@ -1,0 +1,3 @@
+module org.wsm.wallpaper
+plugin wallpaper
+typeinfo plugins.qmltypes
